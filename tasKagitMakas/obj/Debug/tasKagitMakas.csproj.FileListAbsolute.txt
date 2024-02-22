@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\bin\Debug\tasKagitMakas.exe.config
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\bin\Debug\tasKagitMakas.exe
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\bin\Debug\tasKagitMakas.pdb
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.Form1.resources
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.exe
+C:\Users\LENOVO\Desktop\c# projeler\tasKagitMakas\tasKagitMakas\obj\Debug\tasKagitMakas.pdb
